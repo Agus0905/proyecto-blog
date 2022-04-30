@@ -5,6 +5,8 @@ Proyecto creado en: Django, Python, Html. JavaScript
 
 Proyecto con finalidad de Blog. Posee funcionalidades de registracion y login de usuario. Modificar el perfil, que cada usuario tenga accessos a diferentes funcionalidades. Poder editar y borrar un post que el mismo usuario haya creado. La division en categoriass de los posts, etc.
 
+Para poder correr el servidor, hacer migraiocnes a la base de datos con comandos de python. 
+
 #Blog
 
 blog/<int:pk> - Pagina donde se ve en detalle cada post. PK, primary key para poder idientificar y seleccionsar automaticamente en que post nos meteremos.
